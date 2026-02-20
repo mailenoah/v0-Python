@@ -1,0 +1,3 @@
+python is easy
+lets write some data in it
+so data handling is amazing right
